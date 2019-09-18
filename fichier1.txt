@@ -6,5 +6,7 @@ git le fun
 le super fun 
 
 exercice 1
+exercie 2
+
 
 
